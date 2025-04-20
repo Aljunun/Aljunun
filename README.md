@@ -5,7 +5,7 @@
 
 
 - 🪐 Discord **astromys**
-- 🔭 Uc:**recep20022**
+- 🔭 Uc **recep20022**
 
  
 <h3 align="left">Languages and Tools:</h3>
