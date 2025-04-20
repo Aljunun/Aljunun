@@ -1,4 +1,4 @@
-<img    width="600" src="https://usagif.com/wp-content/uploads/gif/outerspace-62.gif">
+<img  allign = "center" width="600" src="https://usagif.com/wp-content/uploads/gif/outerspace-62.gif">
 
 <h1 align="center">Hi 👋, I'm Savas</h1>
 <h3 align="center">🚀 Computer Engineer Student | Embedded Systems & Rocket Projects 🔐 Windows Internals, Kernel Drivers & Security 📊 Real-time Data Viz | Reverse Engineering | C/C++/</h3>
